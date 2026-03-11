@@ -1,3 +1,21 @@
+// class Solution {
+// public:
+//     int reverse(long  x) {
+//         long lastdigit,num=0 ,sign = 1;
+//         if(x < 0){
+//             sign = -1;
+//             x = -x;   
+//         }
+//          while(x>0){
+//             lastdigit = x%10;
+//             num = num *10 +  lastdigit;
+//             x= x/10;
+//         }
+//         return sign*num;
+//     }
+// };
+
+
 class Solution {
 public:
     int reverse(int x) {
