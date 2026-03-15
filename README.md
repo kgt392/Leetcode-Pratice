@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kgt392/Leetcode-Pratice/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/kgt392/Leetcode-Pratice/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/kgt392/Leetcode-Pratice/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/kgt392/Leetcode-Pratice/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/kgt392/Leetcode-Pratice/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/kgt392/Leetcode-Pratice/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/kgt392/Leetcode-Pratice/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/kgt392/Leetcode-Pratice/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
